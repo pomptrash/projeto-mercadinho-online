@@ -15,7 +15,14 @@ O projeto tem como objetivo disponibilizar, de forma online, os produtos de um m
 O método de gestão de projetos utilizado durante a criação desse projeto será uma mistura de **Scrum** *(Histórias de usuário, Backlog do produto e Backlog da Sprint, etc)* com **Metodologia tradicional** **em Cascata** (Especificação de requisitos funcionais/ não funcionais e documentação com a criação de diagramas UML). 
 
 ### Primeira fase: Levantamento de requisitos
+Na primeira fase, definimos os requisitos que serão implementados no nosso sistema.
 
 1. [Especificação de Requisitos Funcionais](docs/Requisitos/EspecificaçãoDeRequisitosFuncionais.md "Especificação de Requisitos Funcionais")
 2. [Histórias de Usuário](docs/Requisitos/HistoriaDeUsuario.md "Histórias de Usuário")
 3. [Backlog do produto](docs/Requisitos/BacklogProduto.md "Backlog do Produto")
+
+### Segunda fase: Modelagem
+Na segunda fase: criamos os Diagramas UML e modelamos o Banco de Dados de forma Conceitual, Lógica e Física. 
+
+1. [Diagramas UML - Caso de Uso e Classe](./docs/Modelagem/Diagramas-UML/diagramas-documentados.md "Documentação Diagramas UML")
+2. [Modelagem Banco De Dados](./docs/Modelagem/Modelagem-Banco-De-Dados/modelagem-banco-de-dados-mercadinho-online.md "Documentação Modelagem do Banco De Dados")
