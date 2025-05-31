@@ -2,7 +2,7 @@
 
 Como forma de praticar todo o conteúdo visto durante o meu segundo semestre de Análise e Desenvolvimento de Sistemas, resolvi criar esse projeto que consiste na junção de todas as matérias: 
 
-- **Análise e modelagem de sistemas** *(levantar requisitos e criar os diagramas UML: de caso de uso, de classe e de entidade e relacionamento)*,
+- **Análise e modelagem de sistemas** *(levantar requisitos e criar os diagramas UML: de caso de uso e de classe)*,
 - **Banco de dados** *(modelar o banco de dados de forma conceitual, lógica e física, utilizando MySQL)*,
 - **Desenvolvimento de aplicações para a web** *(criar o mapa de site e wireframe do site)*,
 - **Front-End frameworks** (será utilizado react.js + bootstrap.css)
