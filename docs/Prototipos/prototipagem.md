@@ -14,9 +14,9 @@ Os Wireframes foram criados esboçando as telas definidas no Mapa de Site. Até 
 
 Foram criados usando o Figma. 
 
-[Link das Telas]('https://www.figma.com/design/l140sUsQCXrcC5s0D0BjIR/projeto-mercadinho-online?node-id=0-1&p=f&t=ll35q1yGRSjP2xrw-0' "Figma")
+[Link das Telas](https://www.figma.com/design/l140sUsQCXrcC5s0D0BjIR/projeto-mercadinho-online?node-id=0-1&p=f&t=ll35q1yGRSjP2xrw-0 "Figma")
 
-[Link da Apresentação Figma]('https://www.figma.com/proto/l140sUsQCXrcC5s0D0BjIR/projeto-mercadinho-online?node-id=0-1&p=f&t=ll35q1yGRSjP2xrw-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3' "Figma")
+[Link da Apresentação Figma](https://www.figma.com/proto/l140sUsQCXrcC5s0D0BjIR/projeto-mercadinho-online?node-id=0-1&p=f&t=ll35q1yGRSjP2xrw-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3 "Figma")
 
 ### Home
 
