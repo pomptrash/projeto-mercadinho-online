@@ -30,7 +30,7 @@ Nesse primeiro momento, os produtos serão todos genéricos, portanto, não have
 
 ---
 
-A matéria de Back-End será iniciada somente no terceiro semestre da faculdade, mas adiantei um pouco do conteúdo de forma autodidata. Aprendi conceitos como rotas, métodos HTTP, endpoints, consumo e criação de APIs, etc. Durante o desenvolvimento desse projeto, pretendo aprimorar ainda mais meu conhecimento em Back-End. Será usado Python com Flask.
+A matéria de Back-End será iniciada somente no terceiro semestre da faculdade, mas adiantei um pouco do conteúdo de forma autodidata. Aprendi conceitos como rotas, métodos HTTP, endpoints, consumo e criação de APIs, etc. Durante o desenvolvimento desse projeto, pretendo aprimorar ainda mais meu conhecimento em Back-End. Será usado Python com Flask. Pretendo implementar a arquitetura MVC, organizando o Back-End em Models, Controllers e Views.
 
 O método de gestão de projetos utilizado durante a criação desse projeto será uma mistura de **Scrum** *(Histórias de usuário, Backlog do produto e Backlog da Sprint, etc)* com **Metodologia tradicional** **em Cascata** (Especificação de requisitos funcionais/ não funcionais e documentação com a criação de diagramas UML). 
 
