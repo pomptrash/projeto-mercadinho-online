@@ -10,7 +10,7 @@ Representação visual da estrutura do Site. Um guia para facilitar a navegaçã
 
 ## Wirefames
 
-Os Wireframes foram criados esboçando as telas definidas no Mapa de Site. Até então, foram criados somente os protótipos Mobile. Deverão ser criados posteriormente os esboços Web.
+Os Wireframes foram criados esboçando as telas definidas no Mapa de Site. Versões Mobile e Destkop dispoíveis.
 
 Foram criados usando o Figma. 
 
